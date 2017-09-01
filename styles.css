@@ -1,0 +1,10 @@
+.form, .entry, .entryPage, .journalPage, .currentJournal {
+    display: inline-block;
+    border: 1px solid black;
+}
+
+.form, .entry, .entryPage, .journalPage, .delete, .select, .currentJournal {
+    vertical-align: top;
+    margin: 1%;
+    padding: 0.5%;
+}
